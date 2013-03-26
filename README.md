@@ -11,3 +11,12 @@ A single page with a basic navigation bar and hero unit, empty `css\main.css` an
 - [jQuery](http://jquery.com)
 - [Bootstrap](http://twitter.github.com/bootstrap)
 
+#### page-with-components
+
+The same page as before, but now the dependencies are managed using Bower to pull in remote components, and the page's code is stored under an `app` directory.
+
+    bower install
+
+- [Bower](http://twitter.github.com/bower/)
+- [bootstrap-latest](http://github.com/spiralx/bootstrap-latest/) - just v2.3.1 asset files.
+
