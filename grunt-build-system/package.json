@@ -1,0 +1,23 @@
+{
+  "name": "project-starters",
+  "version": "0.1.0",
+  "description": "Example project starting points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spiralx/project-starters.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "James Skinner <spiralx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib": "~0.6.1",
+    "grunt-contrib-jshint": "~0.3.0"
+  }
+}

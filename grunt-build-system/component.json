@@ -1,0 +1,8 @@
+{
+  "name": "page-using-components",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap-latest": "git://github.com/spiralx/bootstrap-latest.git#~2.3.1",
+    "requirejs": "~2.1.0"
+  }
+}
