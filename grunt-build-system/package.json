@@ -1,6 +1,6 @@
 {
   "name": "project-starters",
-  "version": "0.1.0",
+  "version": "0.0.4",
   "description": "Example project starting points",
   "main": "index.js",
   "scripts": {
